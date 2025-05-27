@@ -1,6 +1,6 @@
 ﻿namespace WebApplication1.DTOs;
 
-public class GetTripsResponseDto
+public class GetTripsResponseDTO
 {
     public int PageNum { get; set; }
     public int PageSize { get; set; }
